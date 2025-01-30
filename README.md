@@ -1,11 +1,13 @@
 # mynote
+
 - [mynote](#mynote)
   - [标题1](#标题1)
   - [标题2](#标题2)
 
 ## 标题1
-my note\
-this is my vscode 
+
+my note
+this is my vscode
 
 ![这是图片](./assests/temp.jpg)
 
@@ -18,7 +20,9 @@ int main()
     return 0;
 }
 ```
+
 ## 标题2
+
 ```python
 import pygame
 
@@ -29,3 +33,13 @@ sayHello("wang")
 
 ```
 
+![images](/assests/temp.jpg)
+
+
+```c++
+#include <iostream>
+
+```
+
+
+# 标题1
